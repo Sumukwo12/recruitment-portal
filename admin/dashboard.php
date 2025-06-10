@@ -175,7 +175,7 @@ if (isset($_GET['action'])) {
             <div class="tab-buttons">
                 <button class="tab-button active" onclick="showTab('jobs')">Job Management</button>
                 <button class="tab-button" onclick="showTab('applications')">Applications</button>
-                <button class="tab-button" onclick="showTab('settings')"></button>
+                <button class="tab-button" onclick="showTab('settings')">settings</button>
             </div>
 
             <!-- Jobs Tab -->
